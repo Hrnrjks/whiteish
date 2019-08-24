@@ -1,0 +1,9 @@
+D:\Files\Visual_Studio\whiteish\whiteish\obj\Debug\whiteish.csprojResolveAssemblyReference.cache
+D:\Files\Visual_Studio\whiteish\whiteish\obj\Debug\whiteish.form_whiteish.resources
+D:\Files\Visual_Studio\whiteish\whiteish\obj\Debug\whiteish.Properties.Resources.resources
+D:\Files\Visual_Studio\whiteish\whiteish\obj\Debug\whiteish.csproj.GenerateResource.Cache
+D:\Files\Visual_Studio\whiteish\whiteish\bin\Debug\whiteish.exe.config
+D:\Files\Visual_Studio\whiteish\whiteish\bin\Debug\whiteish.exe
+D:\Files\Visual_Studio\whiteish\whiteish\bin\Debug\whiteish.pdb
+D:\Files\Visual_Studio\whiteish\whiteish\obj\Debug\whiteish.exe
+D:\Files\Visual_Studio\whiteish\whiteish\obj\Debug\whiteish.pdb
